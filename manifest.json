@@ -1,0 +1,37 @@
+{
+  "short_name": "Business Card",
+  "name": "Augmented Reality Business Card",
+  "start_url": "index.html?fullscreen=true",
+  "display": "fullscreen",
+  "scope": "/ar-business-card/",
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "description": "Augmented Reality Business Card about John McNamara",
+  "icons": [
+    {
+      "src": "imgs/ar_logo.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "imgs/ar_logo.png",
+      "sizes": "192x",
+      "type": "image/png"
+    },
+    {
+      "src": "imgs/ar_logo.png",
+      "sizes": "256x",
+      "type": "image/png"
+    },
+    {
+      "src": "imgs/ar_logo.png",
+      "sizes": "384x",
+      "type": "image/png"
+    },
+    {
+      "src": "imgs/ar_logo.png",
+      "sizes": "512x",
+      "type": "image/png"
+    }
+  ]
+}
